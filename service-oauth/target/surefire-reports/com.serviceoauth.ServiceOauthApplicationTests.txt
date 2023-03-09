@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.serviceoauth.ServiceOauthApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.24 s - in com.serviceoauth.ServiceOauthApplicationTests
